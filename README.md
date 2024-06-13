@@ -1,32 +1,31 @@
 # Overworld
 
-Detailed Character Creation!
-    - Choose a race and aspiration
-    - Decent starting cosmetic options, with many more later on!
+Character Creation - Choose a race and aspiration. 
+    With decent starting cosmetic options and many more later on!
 
-Fluid movement mechanics
-    - Dodging, blocking
+Movement mechanics - Crouching, walking, running, charging, 
+    strafing, dodging, blocking
 
-Advanced Health System!
-    - Body parts are seperated. Damage to a specific part is reflected through usability
+Health System - Body parts are seperated. 
+    Damage to a specific part is reflected through usability
 
-Immersive Combat/Weapons!
-    - Weapon categories have defining features and each weapon has unique stats
+Combat/Weapons - Weapon categories have defining features and 
+    each weapon has unique stats
 
-Immersive Inventory Management!
-    - Only take the neccesities
-    - Helpful storage capabilities
+Inventory Management - Only take the neccesities. 
+    Helpful storage capabilities
 
-Fun Housing Opprotunities!
-    - Purchase your own home and do what you want with it
+Housing - Purchase your own home and do what you want with it
 
-Semi-Realistic Travel Mechanics!
+Travel Mechanics - Enjoy the trip and not the destination.
+    Traveling long distances take a resonable amount of time
 
-Advanced Shopping/Trade Mechanics!
+Shop/Trade Mechanics - Visit shops, trade with players, 
+    or even open your own shop
 
-Earn Heroic Titles!
+Titles - Know your worth! Titles are related to your 
 
-Gain Serious Skills!
+Skills - 
 
 Hone Serious Weapon Arts!
 
