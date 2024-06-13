@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Overworld.sln"
+    "dotnet.defaultSolution": "Overlume.sln"
 }
