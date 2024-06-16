@@ -25,6 +25,9 @@ Shop/Trade Mechanics - Visit shops, trade with players,
 
 Titles - Know your worth! Titles are related to your 
 
-Skills - Use effective skills that let you spec into whatever archetype you choose
+Skills - Use effective skills that let you spec into whatever 
+    archetype you choose
+
 Weapon Arts - Hone different weapon arts using your aura
+
 Magics - Tap into a vast and deep magic tree and master them all
